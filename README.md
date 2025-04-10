@@ -12,15 +12,14 @@ Leia o enunciado completo no Canvas.
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Pedro Augusto Niess Ferreira
+- Matricula: 1540911
+- Proposta de projeto escolhida: Site de Receitas
+- Breve descrição sobre seu projeto: Este projeto é um site de receitas onde os usuários podem explorar uma lista de pratos. A página inicial exibe receitas em cards dinâmicos, com imagem, nome e descrição. Ao clicar em uma receita, o usuário é direcionado à página de detalhes, contendo informações completas sobre ingredientes e preparo.
+
+
 
 ## Print da versão responsiva com CSS puro
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Descrição da imagem](./public/CapturadeTela.png)
 
-## Print da versão responsiva com Bootstrap
-
-<<  COLOQUE A IMAGEM AQUI >>
