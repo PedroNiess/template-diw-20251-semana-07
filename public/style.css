@@ -1,3 +1,4 @@
+/* RESET BÁSICO */
 body, h1, h2, h3, p, ul, li {
     margin: 0;
     padding: 0;
@@ -132,5 +133,40 @@ body, h1, h2, h3, p, ul, li {
     padding: 15px;
     color: white;
     margin-top: 40px;
+  }
+  
+  .detalhes-receita {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+  }
+  
+  .detalhes img {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+    border-radius: 10px 10px 0 0;
+  }
+  
+  .detalhes .card-body {
+    padding: 20px;
+  }
+  
+  .btn-detalhes,
+  .btn-voltar {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 15px;
+    background-color: #1a237e;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background 0.3s ease;
+  }
+  
+  .btn-detalhes:hover,
+  .btn-voltar:hover {
+    background-color: #3949ab;
   }
   
